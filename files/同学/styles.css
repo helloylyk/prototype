@@ -12,45 +12,14 @@
   position:absolute;
   z-index:0;
 }
-#u281 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:750px;
-  height:1294px;
-  overflow:hidden;
-}
-#u281_state0 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:750px;
-  height:1294px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
-  background-image:none;
-}
-#u281_state0_content {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
-}
 #u282 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:750px;
-  height:4184px;
+  height:1294px;
   overflow:hidden;
-  touch-action:none;
 }
 #u282_state0 {
   border-width:0px;
@@ -58,7 +27,7 @@
   left:0px;
   top:0px;
   width:750px;
-  height:4184px;
+  height:1294px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -73,7 +42,38 @@
   width:1px;
   height:1px;
 }
-#u283_img {
+#u283 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:750px;
+  height:4184px;
+  overflow:hidden;
+  touch-action:none;
+}
+#u283_state0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:750px;
+  height:4184px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u283_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u284_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -81,7 +81,7 @@
   width:750px;
   height:2134px;
 }
-#u283 {
+#u284 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -89,7 +89,7 @@
   width:750px;
   height:2134px;
 }
-#u284 {
+#u285 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -98,7 +98,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u285 {
+#u286 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -108,7 +108,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u286 {
+#u287 {
   border-width:0px;
   position:absolute;
   left:664px;
