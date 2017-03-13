@@ -1247,20 +1247,20 @@
 #u91 {
   border-width:0px;
   position:absolute;
-  left:664px;
-  top:6px;
-  width:75px;
-  height:75px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u92 {
-  border-width:0px;
-  position:absolute;
   left:0px;
   top:0px;
   width:85px;
   height:88px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u93 {
+  border-width:0px;
+  position:absolute;
+  left:655px;
+  top:0px;
+  width:90px;
+  height:90px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
